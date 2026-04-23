@@ -8,8 +8,6 @@ Je suis présentement étudiant a Polytechnique Montréal pour l'obtention d'un 
 
 - Labs sur hackthebox et tryhackme
 
-- Analyseur de logs automatiser (python/ai)
-
 
 ## La liste des outils et application que j'utilise : 
 
